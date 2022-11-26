@@ -1,0 +1,9 @@
+@media screen and (max-width: 1200px) {
+  .nav ul {
+    display: none;
+  }
+
+  .fa-bars {
+    display: block;
+  }
+}
